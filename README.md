@@ -9,3 +9,6 @@
 ## en este caso, move_uploaded_file me mueve la imagen a la carpeta de images y header me refresca la pagina que me redirecciona en este caso a mi index.php y me 
 ## pondrá un texto de imagen subida exitosamente.
 ## si la imagen no tiene el formato correcto nos enviara un mensaje de formato no valido y nos reedirecciona a index.php a los 5segundos con el codigo de headers.
+# TO DO
+## mejorar el diseño
+## usarlo para uno de mis proyectos
