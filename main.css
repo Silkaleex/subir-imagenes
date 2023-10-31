@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body{
+    font-family:Agbalumo;
+    margin:0px;
+    padding:0px;
+    background-color:#04724D;
+}
+.container{
+    text-align:center;
+}
+.contenido{
+    background-color:#586F7C;
+    width:50%;
+    margin:25px auto;
+    padding:3px 0px 20px 0px;
+ 
+}
+.formulario{
+    background-color:#B8DBD9;
+    padding:3% 0%;
+
+}
+.subida{
+    background-color:#B8DBD9;
+    border:none;
+}
+
+.enviar{
+    background-color:#586F7C;
+    border:1px solid #F4F4F9;
+    font-size:15px;
+    font-weight:600;
+    letter-spacing:2px;
+    border-radius:10px;
+    transition:300ms all;
+}
+.enviar:hover{
+    background-color:#04724D;
+    color:#fff;
+    border:1px solid #F4F4F9;
+    font-size:15px;
+    font-weight:600;
+    letter-spacing:2px;
+    border-radius:10px;
+    transition:300ms all;
+}
