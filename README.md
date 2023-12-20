@@ -1,4 +1,4 @@
-# subir-imagenes, un mini proyecto para subir imagenes y mostrarlas
+# Subir-Imagenes
 ### ![image](https://github.com/Silkaleex/subir-imagenes/assets/82760991/dab25da4-4ee0-47f4-853e-37951587c660)
 ### ![image](https://github.com/Silkaleex/subir-imagenes/assets/82760991/d1b251b9-edaa-4144-9f22-ca2c913dc093)
 ## He creado una estructura HTML5 para hacer el formulario de tipo file y tipo submit, tipo file para que me suba la imagen y submit para enviar los datos.
